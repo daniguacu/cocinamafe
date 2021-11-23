@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628544670386",
+    "project_id": "la-cocina-de-mafe",
+    "storage_bucket": "la-cocina-de-mafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628544670386:android:7f34b161e2f307e0fe17ab",
+        "android_client_info": {
+          "package_name": "com.example.danig.cocinamafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628544670386-vgouuo5p6gmj51mdqj2ppjel6lakndhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzjFtGBhypXMyEQnCJ4VSEY5moYzxCWGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628544670386-vgouuo5p6gmj51mdqj2ppjel6lakndhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
